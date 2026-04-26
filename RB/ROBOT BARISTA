@@ -1,2 +1,25 @@
-Small & Simple Code 
-A coffee shop that has a robot barista
+#ROBOT BARISTA 
+#COFFE SHOP
+#THIS SHOP HAS A ROBOT BARISTA
+
+print("Hello...Welcome to josh coffee shop!")
+
+print("Im Rio the robot barista....")
+
+Name = input("What is your name?\n")
+
+Menu = ("choco, matcha, blackcoffee")
+
+print("Woahhh! " + Name + " You have a great and cool name!\n")
+
+print("Now you can now choose your order\n" "This is our menu: " + Menu)
+
+Order = input("Take your time to pick!\n")
+
+Price = 50
+
+Quantity = input("How many " + Order + "?\n")
+
+Total = int(Quantity) *  int(Price)
+
+print("Okay your total order is:" + str(Total))
