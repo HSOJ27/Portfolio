@@ -39,7 +39,7 @@ Aspiring Computer Science student passionate about programming, cybersecurity, a
 ---
 
 ## 📂 Projects
-- 🚧 Coming soon...
+- First Project: https://github.com/HSOJ27/Portfolio/blob/main/RB%2FROBOT%20BARISTA
 
 ---
 
