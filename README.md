@@ -1,6 +1,4 @@
-Aspiring Computer Science student passionate about programming, cybersecurity, and hardware. I started by exploring and fixing devices out of curiosity, which led me into coding. Currently improving my skills through hands-on projects, focusing on logic, consistency, and real-world problem solving.
-
-# 👋 Hi, I'm Josh
+# 👋 Hi there
 
 ## 🚀 About Me
 Aspiring Computer Science student passionate about programming, cybersecurity, and hardware. I started by exploring and fixing devices out of curiosity, which led me into coding and system development.
@@ -8,16 +6,16 @@ Aspiring Computer Science student passionate about programming, cybersecurity, a
 ---
 
 ## 🧠 Currently Learning
-- 💻 Python (soon C++)
+- 💻 Python
 - 🔐 Cybersecurity fundamentals
-- ⚙️ Problem-solving & system logic
-- 🧩 Building small real-world projects
+- ⚙️ Problem-solving & logic building
+- 🧩 Creating small projects for practice
 
 ---
 
 ## 🛠️ Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
@@ -28,15 +26,15 @@ Aspiring Computer Science student passionate about programming, cybersecurity, a
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUPY-TALP" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
 </p>
 
 ---
 
 ## 🎯 Goals
-- Become a skilled developer & cybersecurity specialist  
-- Build real-world systems and tools  
-- Keep improving through consistency and practice  
+- Become a skilled developer and cybersecurity specialist  
+- Build real-world projects  
+- Continuously improve through consistency  
 
 ---
 
