@@ -17,7 +17,7 @@ Aspiring Computer Science student passionate about programming, cybersecurity, a
 
 ## 🛠️ Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
 </p>
 
 ---
