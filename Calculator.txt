@@ -1,0 +1,20 @@
+#Simple Calculator
+
+num1 = int(input("First Number:"))
+opera = input("+,-,*,/:")
+num2 = int(input("Second Number:"))
+
+if opera == "+":
+    print(int(num1 + num2))
+
+elif opera == "-":
+    print(num1 - num2)
+
+elif opera == "*":
+    print(num1 * num2)
+
+elif opera == "/":
+    print(num1 / num2)
+
+else:
+    print("Operation Error")
