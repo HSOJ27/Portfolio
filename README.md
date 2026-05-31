@@ -7,6 +7,7 @@ Aspiring Computer Science student passionate about programming, cybersecurity, a
 
 ## 🧠 Currently Learning
 - 💻 Python
+- 💻 C++
 - 🔐 Cybersecurity fundamentals
 - ⚙️ Problem-solving & logic building
 - 🧩 Creating small projects for practice
